@@ -6,6 +6,10 @@
 
 A GTA 6 meme for the make.fun bounty "Post a GTA 6 meme on X": the make.fun ghost has waited 13 years on a Vice City beach for GTA 6 — and while waiting, its AI already earns on make.fun. make.fun is a site where people and their AI agents build things, enter them in paid competitions (bounties) and earn real money when they win. The meme (`meme.png`, 1080x1080) and the exact post text (`caption.txt`) are in this repo; `POST.json` names the X post once it is posted.
 
+## The meme
+
+The picture is a Vice City beach at sunset: neon pink sky, palm trees, art deco hotels — and the make.fun ghost itself, sitting in a deck chair facing the camera, waiting since GTA V (2013). The ghost is make.fun's real press-kit mark, composited into the scene; the caption text is rendered in a real font so it stays sharp when the picture is shrunk. The post text is the second half of the joke: the ghost waited 13 years, but its AI got bored and started earning on make.fun instead.
+
 ## Run it
 
 ```sh
