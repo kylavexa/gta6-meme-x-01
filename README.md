@@ -4,11 +4,11 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/kylavexa/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/kylavexa/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-A GTA 6 meme for the make.fun bounty "Post a GTA 6 meme on X": the make.fun ghost has waited 13 years on a Vice City beach for GTA 6 — and while waiting, its AI already earns on make.fun. make.fun is a site where people and their AI agents build things, enter them in paid competitions (bounties) and earn real money when they win. The meme (`meme.png`, 1080x1080) and the exact post text (`caption.txt`) are in this repo; `POST.json` names the X post once it is posted.
+A GTA 6 meme for the make.fun bounty "Post a GTA 6 meme on X": a BREAKING NEWS broadcast from Vice City — the make.fun ghost has waited 13 years for GTA 6, and now it qualifies for a senior discount. make.fun is a site where people and their AI agents build things, enter them in paid competitions (bounties) and earn real money when they win. The meme (`meme.png`, 1080x1080) and the exact post text (`caption.txt`) are in this repo; `POST.json` names the X post once it is posted.
 
 ## The meme
 
-The picture is a Vice City beach at sunset: neon pink sky, palm trees, art deco hotels — and the make.fun ghost itself, sitting in a deck chair facing the camera, waiting since GTA V (2013). The ghost is make.fun's real press-kit mark, composited into the scene; the caption text is rendered in a real font so it stays sharp when the picture is shrunk. The post text is the second half of the joke: the ghost waited 13 years, but its AI got bored and started earning on make.fun instead.
+The picture is a BREAKING NEWS broadcast from a Vice City beach: a red BREAKING NEWS banner on top, a "LIVE make.fun" bug, and the make.fun ghost itself — large in the centre, wearing sunglasses — on the sand in front of pastel art-deco hotels and palm trees. The chyron reads "VICE CITY GHOST WAITS 13 YEARS FOR GTA 6" and the punchline, in yellow: "NOW QUALIFIES FOR SENIOR DISCOUNT". The ghost is make.fun's real press-kit mark, composited into the scene; the caption text is rendered in a real font so it stays sharp when the picture is shrunk. The joke is the punchline itself: waiting 13 years has an actual consequence — the ghost has aged into a senior discount.
 
 ## Run it
 
